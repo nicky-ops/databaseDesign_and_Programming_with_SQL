@@ -1,1 +1,1 @@
-# databaseDesign_and_Programming_with_SQL
+# Database Design & Programming with SQL

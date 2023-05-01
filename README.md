@@ -35,7 +35,7 @@
 ## <u> Entity/Table </u>
 * An <em>entity</em> is something of significance to the business about which data must be known. Usually a noun e.g. objects, events, people. 
 * An <em>instance</em> is a single occurence of an entity.
-### <u>Entities and instances- Examples </u>
+* ### <u>Entities and instances- Examples </u>
 <table>
 <tr>
 <th><b>Entities</b></th>

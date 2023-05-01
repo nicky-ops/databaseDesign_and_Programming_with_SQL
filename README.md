@@ -3,7 +3,7 @@
 * <b>Database</b>: an organized collection of centralized and structured information or data stored electronically in a computer system.
 * <em>Database Management System</em>: provides various fucntions that allow entry, storage and retrieval of large quantities of information and provides ways to manage how that information is organized.
 * <b>Information:</b> data which has been processed that has a special meaning or function. Information is always a result of combining, comparing, analyzing or performing calculations on data.
-* ## <u>Components of a database:</u>
+## <u>Components of a database:</u>
 <ol style = "background-color:#33475b">
 <li><b>Hardware</b></li>
 <li><b>Software</b></li>
@@ -35,7 +35,7 @@
 ## <u> Entity/Table </u>
 * An <em>entity</em> is something of significance to the business about which data must be known. Usually a noun e.g. objects, events, people. 
 * An <em>instance</em> is a single occurence of an entity.
-* ### <u>Entities and instances- Examples </u>
+### <u>Entities and instances- Examples </u>
 <table>
 <tr>
 <th><b>Entities</b></th>

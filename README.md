@@ -32,3 +32,25 @@
 <li><b> Managing and maintaining the database and its supporting infrastructure can be quite costly to companies.</b></li>
 <li><b>Removing limits on scalability:</b>It is very difficult to predict how much capacity will be needed by a business in the future especially with on-premise databases, in the early stages of the business.</li>
 </ol>
+## <u> Entity/Table </u>
+* An <em>entity</em> is something of significance to the business about which data must be known. Usually a noun e.g. objects, events, people. 
+* An <em>instance</em> is a single occurence of an entity.
+### <u>Entities and instances- Examples </u>
+<table>
+<tr>
+<th><b>Entities</b></th>
+<th><b>Instances</b></th>
+</tr>
+<tr>
+<td>Person</td>
+<td>Mahatma Gandhi</td>
+</tr>
+<tr>
+<td>Product</td>
+<td>Nike Air Jordan, Gibson Les Paul Custom</td>
+</tr>
+<tr>
+<td>Job</td>
+<td>Electrician, IT Technician.</td>
+</tr>
+</table>

@@ -54,3 +54,8 @@
 <td>Electrician, IT Technician.</td>
 </tr>
 </table>
+
+#### <b>Relationship Types</b>
+* Being able to identify the relationships between entities ma it esier to understand the connections between different pieces of data.
+* Relationships have optionality and cardinality(degree to which one entity is related to another. Answers the question how many), and they exist only between entities.
+* Relationships are bi-directional and are named at both ends.

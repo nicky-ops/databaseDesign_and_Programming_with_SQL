@@ -63,3 +63,9 @@
 ##### a.One-to-Many Relationship
 ##### b. Many-to-Many Relationship
 ##### c. One-to-One Relationship
+
+## Entity Relationship Diagram.
+* An ERD is a consistent tool that can be used to represent the data requirements of a business regardless of the typeof database that is used, and even in the absence of one!
+
+### Entity Relationship Model
+It is a list of all entities and attributes as well as all relationships between entities that are of importance.
